@@ -49,7 +49,7 @@ form input {
 	box-sizing: border-box;
 }
 
-form button {
+.login button {
 	background-color: #33b5e5;
 	width: 100%;
 	border: 0;
